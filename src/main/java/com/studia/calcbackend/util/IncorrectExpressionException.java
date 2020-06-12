@@ -1,6 +1,6 @@
 package com.studia.calcbackend.util;
 
-import java.util.Map;
+import java.util.HashMap;
 
 /**
  * Exception thrown by JShellApi in case of error during expression execution
@@ -10,11 +10,11 @@ public class IncorrectExpressionException extends Exception {
     /**
      * Map storing exception messages to be converted
      */
-    static final private Map<String, String> exceptionsLocale = Map.of(
-            "/ by zero", "Attempted to divide by zero");
+    private HashMap<String, String> exceptionsLocale = new HashMap<String,String>();
 
     public IncorrectExpressionException(String e) {
         super(e);
+	exceptionsLocale.put("/ by zero", "Attempted to divide by zero");
     }
 
     /**

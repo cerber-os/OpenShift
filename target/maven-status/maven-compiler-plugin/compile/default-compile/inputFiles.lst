@@ -1,0 +1,8 @@
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/model/InputModel.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/rest/ComputeOneArgExpr.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/rest/JaxRsActivator.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/util/IncorrectExpressionException.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/rest/CalcRESTService.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/service/CalcApi.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/model/ResponseModel.java
+/home/anybody/Projekty/PROZ/calcbackend/src/main/java/com/studia/calcbackend/rest/ComputeTwoArgExpr.java
